@@ -1,0 +1,32 @@
+.service-content{
+   margin-left:15%;
+   margin-right:15%;
+  
+}
+.our-services{
+    text-align: center;
+    padding-top:50px;
+    
+}
+.column {
+    float: left;
+    width: 33.33%;
+  }
+  .column{
+      margin-top:100px;
+  }
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+.service{
+    width:60%;
+    font-size:18px;
+    float: left;
+    box-shadow: 10px 10px 10px grey ;
+}
+.service img{
+    width:100%;
+}

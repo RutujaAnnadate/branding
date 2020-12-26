@@ -1,0 +1,46 @@
+.home{
+    margin-left:13%;
+    margin-right: 17%;
+    margin-top:8%;
+}
+.content-home{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.content-card{
+    float:left;
+    width:35%;
+}
+.content-image{
+    float:left;
+    width: 35%;
+    margin-left:10%;
+}
+.text{
+    font-size: 20px;
+    letter-spacing:2px;
+    line-height: 1.4em;
+}
+.content-image img{
+    height:80%;
+}
+.why-us{
+    text-align: center;
+    margin-top:8%;
+}
+.point{
+    display:flex;
+    flex-direction: row;
+}
+.point1,.point2,.point3{
+    float:left;
+    font-size:25px;
+    padding-top:40px;
+}
+.point1{
+    margin-left:10%;
+}
+.point2,.point3{
+    margin-left:30%;
+}
